@@ -10,6 +10,12 @@ https://www.shopcom.tn/product/ansys-2025-r2/
 
 Product Price : 1,860,000 $
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 Ansys 2025 R2 is the culmination release of the 2025 cycle, focused on hardening autonomous workflows, scaling the industrial metaverse, and delivering enterprise-wide simulation intelligence. It transforms the visionary concepts of R1 into robust, scalable solutions for mission-critical deployment across global organizations.
